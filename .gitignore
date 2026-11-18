@@ -1,0 +1,16 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Never mix new runs with the historical results
+new_runs/
+checkpoints/
+.DS_Store
+Thumbs.db
