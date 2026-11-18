@@ -1,0 +1,2 @@
+model,avg_score,pct_correct,pct_partial,pct_wrong,n_failed,cat_Ethnoveterinary,cat_Local_Treatment_Context,cat_Terminology,cat_Tropical_Disease_Knowledge,cat_Breed_Knowledge,cat_Production_&_General_Context
+llama-3.1-8b-instant,1.2952,46.9,35.7,17.4,0,1.1857,1.3429,1.1714,1.4429,1.2714,1.3571
